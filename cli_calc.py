@@ -1,4 +1,4 @@
-from calc_logic import *
+from equations import *
 
 def main():
     print("Welcome to the Calculator")
